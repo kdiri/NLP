@@ -23,14 +23,12 @@ class BrokenLinksSpider(CrawlSpider):
 
 
     def parse(self, response):
-	print "status"+str(response.status)
-	print "link"+str(response.request)
 	if response.status == 404:
 	    F=open("404links.txt","a")
 	    F.write(response.url+"\n")
 	    F.close()
 	else:
-            extractor = LinkExtractor(allow_domains=allowed_domains)
+            extractor = LinkExtractor(allow_domains=self.allowed_domains)
             links = extractor.extract_links(response)
             for link in links:
             	new_request = Request(link.url, callback=self.parse)
