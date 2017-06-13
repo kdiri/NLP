@@ -5,8 +5,7 @@ import html2text
 import nltk
 from scrapy.http import Request
 import urllib
-
-#F = open("cabbar.txt","w") 
+import re
 
 
 from bs4 import BeautifulSoup
@@ -42,10 +41,10 @@ class BrickSetSpider(scrapy.Spider):
         SET_SELECTOR = '.mw-content-ltr'
         for brickset in response.css(SET_SELECTOR):
 	    aa = brickset.extract()
-	    sel2 = Selector(text=aa,type="html")
 	    soup2 = BeautifulSoup(aa)
             F=open(self.cabbar+".txt","a")
-            F.write(soup2.text.encode('utf-8','ignore'))
+            F.write(soup2.text.encode('utf-8','ignore').split('►')[-1])
+            F.write("==============================================")
 	    if(len(soup2.text.encode('utf-8','ignore'))<10):
 		F.write("problemmosssss")
 	    F.close()
