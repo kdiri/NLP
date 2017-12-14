@@ -17,5 +17,5 @@
 [5] S. Papadimitriou and J. Sun. DisCo: Distributed Co-clustering with Map-Reduce: A Case Study towards Petabyte-Scale End-to-End Mining. In IEEE Intl Conf.on Data Mining (ICDM), 2008<br />
 [6] R. M. C. McCreadie, C. Macdonald, and L. Ounis. On single-pass indexing with MapReduce. In ACM Conf. on Research and development in information retrieval (SIGIR), 2009<br />
 [7] D. Fried, S. G. Kobourov: Maps of Computer Science. PacificVis 2014: 113-120, http://mocs.cs.arizona.edu, 2014<br />
-[8] M. I. Hossain, S. G. Kobourov: Research Topics Map: RTopMap. http://rtopmap.arl.arizona.edu, 2017<br />
+[8] M. I. Hossain, S. G. Kobourov: Research Topics Map: RTopMap. http://rtopmap.arl.arizona.edu, https://arxiv.org/pdf/1706.04979.pdf, 2017<br />
 [9] J. D. Ullman, Designing good MapReduce algorithms, XRDS: Crossroads, The ACM Magazine for Students 19(1), 2012<br />
