@@ -4,6 +4,9 @@
 
 [EPIQUE : Reconstruire l'évolution des sciences à grande échelle](http://www-bd.lip6.fr/wiki/site/recherche/projets/epique/start)<br />
 
+*Goal:* Notre objectif est de développer des solutions performantes pour générer et interagir avec des cartes phylomémétiques qui exploitent les avancées technologiques récentes pour la parallélisation des tâches et des algorithmes sur des données complexes et volumineuses.
+
+*Keywords:* épistémologie quantitative, évolution des sciences, détéction de topics, alignement temporel, traitements de données à large échelle, sciences des données, big data, scientométrie
 
 ## References
 
