@@ -1,5 +1,10 @@
 # Topic Extraction and Alignment for Large Scientific Document Collections
 
+## Project
+
+[EPIQUE : Reconstruire l'évolution des sciences à grande échelle](http://www-bd.lip6.fr/wiki/site/recherche/projets/epique/start)<br />
+
+
 ## References
 
 [1] Chavalarias D, Cointet J-P (2013) Phylomemetic Patterns in Science Evolution-The Rise and Fall of Scientific Fields. PLoS ONE 8(2): e54847. doi:10.1371/journal.pone.0054847<br />
