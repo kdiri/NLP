@@ -12,6 +12,9 @@
 
 *Data:* L'ensemble des publications scientifiques de MedLine (médecine), HAL (informatique) et RePEc (économie). 
 
+*Toy Data:* https://archive.org/details/stackexchange<br />
+https://www.reddit.com/r/datasets/comments/3bxlg7/i_have_every_publicly_available_reddit_comment/
+
 ## References
 
 [1] Chavalarias D, Cointet J-P (2013) Phylomemetic Patterns in Science Evolution-The Rise and Fall of Scientific Fields. PLoS ONE 8(2): e54847. doi:10.1371/journal.pone.0054847<br />
