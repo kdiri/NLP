@@ -12,8 +12,12 @@
 
 *Data:* L'ensemble des publications scientifiques de MedLine (médecine), HAL (informatique) et RePEc (économie). 
 
-*Toy Data:* https://archive.org/details/stackexchange<br />
-https://www.reddit.com/r/datasets/comments/3bxlg7/i_have_every_publicly_available_reddit_comment/
+*Toy Data:* <br /> 
+[1] https://archive.org/details/stackexchange<br />
+[2] https://www.reddit.com/r/datasets/comments/3bxlg7/i_have_every_publicly_available_reddit_comment/<br />
+
+*Test Environment:* <br />
+[How-to: Create a Simple Hadoop Cluster with VirtualBox](https://blog.cloudera.com/blog/2014/01/how-to-create-a-simple-hadoop-cluster-with-virtualbox/)
 
 ## References
 
