@@ -22,10 +22,9 @@
 [How-to: Create a Simple Hadoop Cluster with VirtualBox](https://blog.cloudera.com/blog/2014/01/how-to-create-a-simple-hadoop-cluster-with-virtualbox/)
 
 *Spark LDA:* <br />
-
 [MLlib Clustering - LDA](https://spark.apache.org/docs/2.2.0/mllib-clustering.html#latent-dirichlet-allocation-lda)<br />
 [Large Scale Topic Modeling: Improvements to LDA on Apache Spark](https://databricks.com/blog/2015/09/22/large-scale-topic-modeling-improvements-to-lda-on-apache-spark.html)<br />
-
+[Topic modeling with LDA: MLlib meets GraphX](https://databricks.com/blog/2015/03/25/topic-modeling-with-lda-mllib-meets-graphx.html)<br />
 
 ## References
 
