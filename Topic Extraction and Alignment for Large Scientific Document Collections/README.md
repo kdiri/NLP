@@ -25,6 +25,7 @@
 [MLlib Clustering - LDA](https://spark.apache.org/docs/2.2.0/mllib-clustering.html#latent-dirichlet-allocation-lda)<br />
 [Large Scale Topic Modeling: Improvements to LDA on Apache Spark](https://databricks.com/blog/2015/09/22/large-scale-topic-modeling-improvements-to-lda-on-apache-spark.html)<br />
 [Topic modeling with LDA: MLlib meets GraphX](https://databricks.com/blog/2015/03/25/topic-modeling-with-lda-mllib-meets-graphx.html)<br />
+[spectral LDA algorithm - Jira](https://issues.apache.org/jira/browse/SPARK-18599)<br />
 
 ## References
 
