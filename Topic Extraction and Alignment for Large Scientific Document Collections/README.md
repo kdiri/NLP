@@ -27,6 +27,9 @@
 [Topic modeling with LDA: MLlib meets GraphX](https://databricks.com/blog/2015/03/25/topic-modeling-with-lda-mllib-meets-graphx.html)<br />
 [spectral LDA algorithm - Jira](https://issues.apache.org/jira/browse/SPARK-18599)<br />
 
+*Others:* <br />
+[Spark Packages](https://spark-packages.org/)<br />
+
 ## References
 
 [1] Chavalarias D, Cointet J-P (2013) Phylomemetic Patterns in Science Evolution-The Rise and Fall of Scientific Fields. PLoS ONE 8(2): e54847. doi:10.1371/journal.pone.0054847<br />
