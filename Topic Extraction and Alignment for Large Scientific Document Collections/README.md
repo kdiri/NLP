@@ -2,7 +2,7 @@
 
 ## Project
 
-[EPIQUE : Reconstruire l'évolution des sciences à grande échelle](http://www-bd.lip6.fr/wiki/site/recherche/projets/epique/start)<br />
+[ARESOS - CNRS Mastodons](http://www.cnrs.fr/mi/IMG/pdf/2014-01-23-mastodons-_aresos_-_journee_mastodons.pdf) -> [EPIQUE : Reconstruire l'évolution des sciences à grande échelle](http://www-bd.lip6.fr/wiki/site/recherche/projets/epique/start)<br />
 
 *Goal:* Notre objectif est de développer des solutions performantes pour générer et interagir avec des cartes phylomémétiques qui exploitent les avancées technologiques récentes pour la parallélisation des tâches et des algorithmes sur des données complexes et volumineuses.
 
