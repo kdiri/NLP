@@ -29,13 +29,13 @@
 
 *Others:* <br />
 [Spark Packages](https://spark-packages.org/)<br />
-[FPGrowth Frequent Pattern Mining](https://spark.apache.org/docs/latest/mllib-frequent-pattern-mining.html)
-[FPGrowth Algorithm](http://www.philippe-fournier-viger.com/spmf/FPGrowth.php)
+[FPGrowth Frequent Pattern Mining](https://spark.apache.org/docs/latest/mllib-frequent-pattern-mining.html)<br />
+[FPGrowth Algorithm](http://www.philippe-fournier-viger.com/spmf/FPGrowth.php)<br />
 
 ## Stage(Lié à la thèse)
 
 Ce stage a pour objectif principal de définir et de réaliser un workflow interactif pour extraire des domaines scientifiques à partir d’une collection de documents. Le travail à effectuer est le suivant:
-    
+
     * état de l’art sur les modèles d’extraction de topics et analyse de leurs propriétés (parallélisation, incrémentalité)
     * définition d’un workflow incrémental pour l’extraction et l’alignement de topics
     * implémentation du workflow
