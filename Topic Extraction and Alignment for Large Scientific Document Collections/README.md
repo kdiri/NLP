@@ -30,6 +30,7 @@
 *Others:* <br />
 [Spark Packages](https://spark-packages.org/)<br />
 [FPGrowth Frequent Pattern Mining](https://spark.apache.org/docs/latest/mllib-frequent-pattern-mining.html)
+[FPGrowth Algorithm](http://www.philippe-fournier-viger.com/spmf/FPGrowth.php)
 
 ## Stage(Lié à la thèse)
 
