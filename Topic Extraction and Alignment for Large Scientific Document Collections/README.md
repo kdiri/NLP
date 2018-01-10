@@ -1,6 +1,6 @@
 # Topic Extraction and Alignment for Large Scientific Document Collections
 
-## Project
+## Project - Thèse
 
 [ARESOS - CNRS Mastodons](http://www.cnrs.fr/mi/IMG/pdf/2014-01-23-mastodons-_aresos_-_journee_mastodons.pdf) -> [EPIQUE : Reconstruire l'évolution des sciences à grande échelle](http://www-bd.lip6.fr/wiki/site/recherche/projets/epique/start)<br />
 
@@ -29,6 +29,18 @@
 
 *Others:* <br />
 [Spark Packages](https://spark-packages.org/)<br />
+
+
+## Stage(Lié à la thèse)
+
+Ce stage a pour objectif principal de définir et de réaliser un workflow interactif pour extraire des domaines scientifiques à partir d’une collection de documents. Le travail à effectuer est le suivant:
+    
+    * état de l’art sur les modèles d’extraction de topics et analyse de leurs propriétés (parallélisation, incrémentalité)
+    * définition d’un workflow incrémental pour l’extraction et l’alignement de topics
+    * implémentation du workflow
+    * validation expérimentale
+
+
 
 ## References
 
