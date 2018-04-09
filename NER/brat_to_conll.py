@@ -24,6 +24,7 @@ def get_sentences_and_tokens_from_spacy(text, spacy_nlp):
         sentence_tokens = []
         for token in sentence:
             token_dict = {}
+            token_dict['pos'] = (token.pos_)
             token_dict['start'], token_dict['end'] = get_start_and_end_offset_of_token_from_spacy(token)
             token_dict['text'] = text[token_dict['start']:token_dict['end']]
             if token_dict['text'].strip() in ['\n', '\t', ' ', '']:
@@ -181,8 +182,8 @@ def brat_to_conll(input_folder, output_filepath, tokenizer, language):
                 if token['end'] == entity['end']:
                     inside = False
                 previous_token_label = token['label']
-                if verbose: print('{0} {1} {2} {3} {4}\n'.format(token['text'], base_filename, token['start'], token['end'], gold_label))
-                output_file.write('{0} {1} {2} {3} {4}\n'.format(token['text'], base_filename, token['start'], token['end'], gold_label))
+                if verbose: print('{0} {1} {2} {3} {4} {5}\n'.format(token['text'], base_filename, token['start'], token['end'],token['pos'], gold_label))
+                output_file.write('{0} {1} {2} {3} {4} {5}\n'.format(token['text'], base_filename, token['start'], token['end'],token['pos'], gold_label))
             if verbose: print('\n')
             output_file.write('\n')
 
